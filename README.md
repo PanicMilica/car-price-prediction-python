@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PanicMilica
 - 👀 I’m interested in Projects in Python.
 - 🌱 I’m currently learning Machine Learning Algorithms.
-- 💞️ I’m looking to collaborate on Wine Quality Prediction.
+- 💞️ I’m looking to collaborate on new projects based on AI, ML and DL.
 - 📫 How to reach me panicmilica1994@gmail.com
 
 <!---
